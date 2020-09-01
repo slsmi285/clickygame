@@ -13,12 +13,14 @@ Don't click the same card twice!
 ## Screenshots
 
 
-![Game Page](https://github.com/slsmi285/scraper_news/blob/master/public/assets/img/scrape%20page.PNG)
+![NPM Start](https://github.com/slsmi285/clickygame/blob/master/images/npm%20start%20game.PNG)
 
-![Terminal](https://github.com/slsmi285/scraper_news/blob/master/public/assets/img/terminal%20log.PNG)
+![Terminal](https://github.com/slsmi285/clickygame/blob/master/images/terminal%20log%20successful.PNG)
 
-![Activated Game](https://github.com/slsmi285/scraper_news/blob/master/public/assets/img/read%20article.PNG)
+![Game In Action](https://github.com/slsmi285/clickygame/blob/master/images/terminal%20log%20successful.PNG)
 
-![Game Over](https://github.com/slsmi285/scraper_news/blob/master/public/assets/img/read%20article.PNG)
+![Game Reset](https://github.com/slsmi285/clickygame/blob/master/images/game%20reset.PNG)
 
-[Heroku Link](https://vast-spire-84282.herokuapp.com/)
+![Game Over](https://github.com/slsmi285/clickygame/blob/master/images/choosing%20same%20pic%20game%20over.PNG)
+
+[Heroku Link](https://react-clickysponge-app.herokuapp.com/)
