@@ -13,14 +13,14 @@ Don't click the same card twice!
 ## Screenshots
 
 
-![NPM Start](https://github.com/slsmi285/clickygame/blob/master/images/npm%20start%20game.PNG)
+![NPM Start]("https://github.com/slsmi285/clickygame/blob/master/images/npm%20start%20game.PNG")
 
-![Terminal](https://github.com/slsmi285/clickygame/blob/master/images/terminal%20log%20successful.PNG)
+![Terminal]("https://github.com/slsmi285/clickygame/blob/master/images/terminal%20log%20successful.PNG")
 
-![Game In Action](https://github.com/slsmi285/clickygame/blob/master/images/terminal%20log%20successful.PNG)
+![Game In Action]("https://github.com/slsmi285/clickygame/blob/master/images/terminal%20log%20successful.PNG")
 
-![Game Reset](https://github.com/slsmi285/clickygame/blob/master/images/game%20reset.PNG)
+![Game Reset]("https://github.com/slsmi285/clickygame/blob/master/images/game%20reset.PNG")
 
-![Game Over](https://github.com/slsmi285/clickygame/blob/master/images/choosing%20same%20pic%20game%20over.PNG)
+![Game Over]("hhttps://github.com/slsmi285/clickygame/blob/master/images/choosing%20same%20pic%20game%20over.jpg")
 
-[Heroku Link](https://react-clickysponge-app.herokuapp.com/)
+[Heroku Link]("https://react-clickysponge-app.herokuapp.com/")
