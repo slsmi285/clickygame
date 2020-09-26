@@ -23,4 +23,4 @@ Don't click the same card twice!
 
 ![Game Over]("hhttps://github.com/slsmi285/clickygame/blob/master/images/choosing%20same%20pic%20game%20over.jpg")
 
-[Heroku Link]("https://react-clickysponge-app.herokuapp.com/")
+[Heroku Link]("https://infinite-refuge-09057.herokuapp.com")
